@@ -1,0 +1,30 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    margin: 0px;
+    text-align: center;
+    
+}
+
+a{
+    color: aquamarine;
+    display: block;
+    margin: 40px;
+    font-size: 1rem;
+}
+
+h1 {
+    font-size: 3.125rem;
+    font-weight: 300;
+
+}
+img {
+    margin: 30px;
+}
+
+footer p {
+    text-align: right;
+    margin: 30px;
+}
